@@ -128,3 +128,10 @@ button{
 .action button{
     border: 1px solid #fff;
 }
+
+footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: #fff;
+    padding: 20px;
+}
