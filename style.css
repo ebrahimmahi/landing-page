@@ -113,3 +113,18 @@ button{
     font-size: 22px;
     font-weight: bold;
 }
+
+.action {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #3882f6;
+    margin: 100px 150px;
+    padding: 30px;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.action button{
+    border: 1px solid #fff;
+}
